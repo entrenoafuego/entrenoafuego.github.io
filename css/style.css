@@ -8024,7 +8024,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .wrap {
-  background: #006fdc;
+  background: #ff1010;
   padding: 0; }
   .wrap .phone {
     font-size: 12px;
@@ -8932,7 +8932,7 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: .8;
-    background: #1089ff; }
+    background: #a10000; }
 
 .block-7 {
   border-radius: 4px;
@@ -8990,12 +8990,12 @@ textarea.form-control {
     box-shadow: 0px 24px 48px -13px rgba(0, 0, 0, 0.11); }
 
 .consultation {
-  background: #1089ff;
+  background: #ff1010;
   color: rgba(255, 255, 255, 0.9);
   padding-top: 4em;
   padding-bottom: 4em; }
   .consultation.consul {
-    background: #006fdc; }
+    background: #930000b0; }
   .consultation h3 {
     font-size: 20px;
     color: #fff;
